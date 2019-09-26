@@ -1,1 +1,1 @@
-docker run -d -it -p 3000:3000 time-tracking-rewrites 
+docker run -d -it -p 9003:9003 time-tracking-rewrites 
